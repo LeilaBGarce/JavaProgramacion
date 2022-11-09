@@ -9,6 +9,8 @@ package javaprogramacion;
  *
  * @author Julieta
  */
+private String atrib1;
+
 public class JavaProgramacion {
 
     /**
@@ -16,6 +18,7 @@ public class JavaProgramacion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
+   
     
 }
+    }
